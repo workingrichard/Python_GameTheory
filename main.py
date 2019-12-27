@@ -84,7 +84,7 @@ T = 20
 # gamer1 = PositiveGamer('PosGamer', T)
 # gamer2 = NegativeGamer('NegGamer', T)
 # gamer1 = NegativeGamer('NegGamer', T)
-gamer1 = RandomGamer('RandomGamer Tom', T, 50)
+gamer1 = RandomGamer('RandomGamer Tom', T, 30)
 gamer2 = RandomGamer('RandomGamer John', T, 20)
 
 for index in range(0, T):
